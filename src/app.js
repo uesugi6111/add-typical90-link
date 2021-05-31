@@ -2,11 +2,12 @@
 // @name     add-typical90-link
 // @author uesugi
 // @description 典型90にgithubの解説リンクを追加
-// @version  0.0.1
-// @include  https://atcoder.jp/contests/typical90/*
+// @version  0.0.2
+// @include  https://atcoder.jp/contests/typical90*
 // @exclude  https://atcoder.jp/contests/
 // @exclude  https://atcoder.jp/contests/archive
 // @grant    none
+// @namespace https://greasyfork.org/users/703686
 // ==/UserScript==
 
 let parent = document.getElementsByClassName("nav nav-tabs")[0];
